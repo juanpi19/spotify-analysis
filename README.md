@@ -1,5 +1,8 @@
 # Does Song Duration Affect Popularity?
 
+![image](https://github.com/juanpi19/spotify-analysis/assets/68093380/00e8fae6-43d1-4721-98ff-dc7c5486a8a8)
+
+
 ## Project Overview
 
 This project analyzed whether the duration of a song impacts its popularity on music streaming platforms. The hypothesis was that song duration does have an effect on engagement metrics like number of likes.
