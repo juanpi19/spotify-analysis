@@ -16,7 +16,7 @@ The project focused on analyzing songs on Spotify to see if there was a correlat
 
 ## Data Collection and Cleaning
 
-Song data was collected from the Spotify API. The data included attributes like song name, artist, album, release date, genre, and duration.
+Song data was collected from an available dataset in Kaggle. The data included attributes like song name, artist, album, release date, genre, and duration.
 
 The raw data went through a cleaning process:
 
@@ -37,6 +37,10 @@ Key findings:
 
 - Long songs had significantly more likes than short songs
 - The ideal song duration was between 3.55-4.12 minutes
+
+
+
+![image](./barchart.png)
 
 ## Conclusion
 
