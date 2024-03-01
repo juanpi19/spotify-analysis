@@ -44,7 +44,7 @@ The analysis showed clear evidence that longer song duration leads to increased 
 
 ## About the Project
 
-This project was completed by Team E5 as part of the Infini8 Loop data science bootcamp. The team members were:
+This project was completed by Team E5 at USC Marshall School of Business. The team members were:
 
 - Anqi Luo
 - Antonia Roates
